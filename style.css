@@ -124,7 +124,7 @@ hr{
     }
 }
 #home{
-    background-image: url("./images/shopping-bag-cart");
+    background-image: url("images/shopping-bag-cart");
     width: 100%;
     height: 100vh;
     background-size: cover;
